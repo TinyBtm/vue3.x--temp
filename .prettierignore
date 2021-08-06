@@ -1,0 +1,13 @@
+# 设置忽略文件夹
+build
+dist
+node_modules
+prod
+public
+
+# 设置忽略文件类型
+*.html
+*.svg
+*.png
+*.jpg
+*.json
